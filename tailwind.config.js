@@ -11,6 +11,10 @@ export default {
       'customDarkCyan': '#3c8067',
       'customDarkBlue' : '#1c232b',
       'customDarkGrayBlue' : '#6c7289'
+    },
+    fontFamily:{
+      customFraunce: ['Fraunces', 'serif'] ,
+      customMonto: ['Montserrat', 'sans-serif']
     }
   },
   plugins: [],
